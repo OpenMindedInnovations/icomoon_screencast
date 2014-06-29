@@ -7,3 +7,5 @@ blog post: http://uxtronaut.com/post/90179414626/rails-icomoon-rake-task
 gist of rake task: https://gist.github.com/uxtronaut/a7c89f7dceee1e4b0f6f#file-icons-rake
 
 icomoon website: http://icomoon.io/
+
+video: https://www.youtube.com/watch?v=X5eT9YOS5S0
