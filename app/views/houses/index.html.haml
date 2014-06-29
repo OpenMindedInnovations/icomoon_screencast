@@ -1,0 +1,27 @@
+.house-listing
+  %h2 House Listings
+  - @houses.each do |house|
+    .row
+      .small-8.columns
+        .panel.radius
+          %h4
+            %i.icon-house
+            = house.name
+          %ul
+            %li
+              %i.icon-owner
+              %span= house.owner
+
+            %li
+              %i.icon-price
+              %span= "$#{house.price}"
+
+            %li
+              %i.icon-location
+              %span= house.location
+
+
+  .row
+    .small-12.columns
+      = link_to 'New House', new_house_path, class: 'button radius'
+

@@ -11,6 +11,6 @@ gem 'jquery-rails'
 gem 'js-routes'
 gem 'turbolinks'
 gem 'foundation-rails'
-gem 'sdoc', '~> 0.4.0',          group: :doc
+gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'spring',        group: :development
+gem 'spring', group: :development

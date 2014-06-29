@@ -1,0 +1,9 @@
+= simple_form_for house do |f|
+  = render 'form_errors', f: f
+
+  = f.input :name
+  = f.input :owner
+  = f.input :price
+  = f.input :location
+
+  = f.button :submit

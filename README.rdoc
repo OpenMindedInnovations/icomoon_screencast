@@ -1,5 +1,9 @@
-== Rails Foundation Template
+== Modified Icomoon screencast code
 
-This is a very basic setup using foundation. 
+This is the modified code of the icomoon screencast
 
-git clone git@github.com:jbhatab/rails-foundation-template.git
+blog post: http://uxtronaut.com/post/90179414626/rails-icomoon-rake-task
+
+gist of rake task: https://gist.github.com/uxtronaut/a7c89f7dceee1e4b0f6f#file-icons-rake
+
+icomoon website: http://icomoon.io/
