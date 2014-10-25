@@ -1,6 +1,6 @@
 == Modified Icomoon screencast code
 
-This is the modified code of the icomoon screencast
+Check out the screencast: http://www.openmindedinnovations.com/blogs/custom-font-icons-for-ruby-on-rails-with-icomoon
 
 blog post: http://uxtronaut.com/post/90179414626/rails-icomoon-rake-task
 
